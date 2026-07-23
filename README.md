@@ -15,7 +15,7 @@
 
 
 ###Project Overview
-
+---
 This project presents an end-to-end data analytics workflow on a simulated women's socioeconomic survey dataset containing 6,500+ records. The objective was to analyze socioeconomic factors such as education, employment, income, savings behavior, business activities, digital access, healthcare access, and training participation.
 
 The project demonstrates the complete journey of a data analyst, from creating realistic data to transforming it into meaningful insights through visualization.
