@@ -118,7 +118,7 @@ An interactive dashboard was created to analyze:
 - Dashboard Development
 - Insight Generation
   
-###Key Findings
+### Key Findings
 Higher education is associated with higher income.
 Farming is the most common business activity.
 Savings remain low compared to income.
@@ -127,7 +127,7 @@ Digital access improves with income.
 Health insurance coverage is relatively low.
 Most participants have not received formal training.
 
-###Recommendations
+### Recommendations
 Expand entrepreneurship support through access to affordable financing and business development programs.
 Increase vocational and financial literacy training to improve income and savings outcomes.
 Promote digital inclusion by improving access to smartphones, internet services, and digital skills.
